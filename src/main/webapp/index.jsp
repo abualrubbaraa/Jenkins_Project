@@ -12,7 +12,9 @@
   <h1>Welscome .. </h1>
   <h2>Modifying to test the pipeline.. </h2>
   <h2> Adding server 2 .....</h2>
-</div>
+  <h1>Hello all :) </h1>
+  
+  </div>
 
 </body>
 </html> 
