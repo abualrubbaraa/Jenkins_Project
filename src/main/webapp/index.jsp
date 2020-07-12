@@ -10,7 +10,8 @@
 
 <div id="main">
   <h1>Welscome .. </h1>
-  <p>Modifying to test the pipeline.. </p>
+  <h2>Modifying to test the pipeline.. </h2>
+  <h2> Adding server 2 ..</h2>
 </div>
 
 </body>
